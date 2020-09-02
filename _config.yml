@@ -1,0 +1,56 @@
+name: Tinta en las Cintas
+tagline: "Un mixtape colectivo."
+description: "Un mixtape colectivo: Blog de música."
+url: https://tintaenlascintas.co
+lang: es_CO
+twitter: tinta_cintas
+comments: false
+analytics: true
+analytics-id: 'UA-86791161-2'
+
+# Social
+social:
+  links:
+    - https://twitter.com/tinta_cintas
+    - https://instagram.com/tintaenlascintas.co
+    - https://tinta-cintas.tumblr.com/
+
+# Authors
+authors:
+  kandr3s:
+    name: Andrés Cárdenas
+    display_name: Andrés
+    bio: "Colombiano, estudiante, editor de Tinta en las Cintas y aficionado a la música."
+    web: http://kandr3s.co
+    twitter: kandr3s
+    github: kandr3s
+  wiktoria:
+    name: Wiktoria Pająk
+    display_name: Wiktoria
+    bio: "Estudiante polaca y aficionada al idioma español, que reseña música en español y polaco."
+    web: http://tranzytrustykalny.tumblr.com
+
+
+# File management
+include: [".htaccess"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
+# Plugins
+plugins:
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Markdown
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+highlighter: rouge

@@ -1,0 +1,18 @@
+---
+layout: base
+---
+<h3>Publicaciones Recientes</h3>
+
+<div class="grid-container">
+  {% for post in site.posts limit:6 %}
+  <article class="post-listing">
+    <a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
+    <div class="album-art-container">
+      <div class="album-art-frame">
+        <img class="album-art" src="{{ post.image }}" alt="{{ post.title }}">
+      </div>
+    </div>
+  </article>
+  {% endfor %}
+</div>
+<a href="/posts"><button class="button-alt">VER MÁS POSTS</button></a>
