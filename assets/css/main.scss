@@ -252,6 +252,10 @@ hr {
 	}
 }
 
+#youtube_iframe {
+    width: 100%;
+}
+
 /*** footer ***/
 footer {
 	width: 100%;
@@ -267,9 +271,6 @@ footer {
 	.wrapper {
 		width: 480px;
 		margin: 5% auto 0 auto;
-	}
-	iframe {
-		width: 100%;
 	}
 }
 
