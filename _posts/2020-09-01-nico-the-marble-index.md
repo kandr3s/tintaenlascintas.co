@@ -42,5 +42,5 @@ Basta escuchar su inquietante voz y sus misteriosas letras para entender que ell
 
 Christa Päffgen (su nombre real) es otra victima del sexismo en la industria musical, su trabajo es a menudo pasado por alto y su expresión artística es minimizada debido a la contribución de otros hombres en sus proyectos. Pero estamos hablando de una mujer que antes de decidir que quería hacer música, ya había modelado en Paris para Vogue y Elle, rechazado a Coco Chanel y actuado en *La dolce vita* de Fellini. Ella no le debe a sus colaboradores más que inspiración compartida. 
 
-<iframe src="https://open.spotify.com/embed/album/48KVIwAePhzIDqv2pURFMY" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="encrypted-media"></iframe>
+<iframe class="embedded" src="https://open.spotify.com/embed/album/48KVIwAePhzIDqv2pURFMY" style="border: 0; width: 100%; height: 380px;" allowfullscreen allow="encrypted-media"></iframe>
 

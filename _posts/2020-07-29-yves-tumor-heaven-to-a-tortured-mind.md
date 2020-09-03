@@ -18,4 +18,4 @@ Mi tema favorito (viendo cómo hace rato [hablamos de Gospel](https://tintaenlas
 
 Heaven to a Tortured Mind es hermoso, emocional y apasionado. La mente detrás de este proyecto emociona de cara al futuro.
 
-<iframe src="https://open.spotify.com/embed?uri=spotify%3Atrack%3A46LX0sSwIU4GFLcj23ZfMA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<iframe class="embedded" src="https://open.spotify.com/embed?uri=spotify%3Atrack%3A46LX0sSwIU4GFLcj23ZfMA" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>

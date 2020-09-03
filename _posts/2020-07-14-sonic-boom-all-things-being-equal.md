@@ -22,7 +22,7 @@ De cualquier forma, estamos convencidos de que si existe algo conocido como "Roc
 
 El álbum fue tomando forma partiendo de instrumentales que inicialmente no iban a ser publicados, y aunque retoma ideas que había explorado en "Recurring", su último disco con **Spacemen 3** también deja en evidencia que Sonic Boom ha tomado una o dos cosas de las personas con las que ha trabajado en los últimos años, "I Feel a Change Coming On" tiene una vibe a Panda Bear y Beach House imperdible.
 
-<iframe id="youtube_iframe" src="https://www.youtube.com/embed/3T5GAhiVjOQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allowfullscreen="allowfullscreen" width="540" height="304" frameborder="0"></iframe>
+<iframe class="embedded" src="https://www.youtube.com/embed/3T5GAhiVjOQ?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allowfullscreen="allowfullscreen" width="540" height="304" frameborder="0"></iframe>
 
 Sonic, que dice solo hacer música de la que está dispuesto a hablar por el resto de su vida, reflexiona de manera positiva sobre la muerte como parte del proceso de la vida, cuestiona el consumismo que impulsa el mundo y sueña con un cambio. En cierto modo, está asombrado de la capacidad única del planeta para florecer la vida y eso ha resultado en un disco que en Tinta en las Cintas recomendamos a ojos cerrados.
 

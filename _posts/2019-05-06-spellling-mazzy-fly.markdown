@@ -13,7 +13,7 @@ Debo admitir que me he acercado al álbum un poco escéptica desde el principio.
 
 No pude separarme de estos cuando, después de todos estos meses de expectativas ocultas, Spellling finalmente lanzó el segundo álbum llamado **Mazy Fly**. Estos meses resultaron ser ilusorios cuando al final pude disfrutar de las composiciones de la extremadamente talentosa señorita Cabral. Esta vez, la artista nos ha presentado una sesión de casi cuarenta minutos y como una bruja nos ha hechizado. La magia y la ampliación de horizontes de su música no son los únicos trucos utilizados por Spellling en Mazy Fly. Inexorablemente y conceptualmente, Tia Cabral se ha acercado más con este lanzamiento a Kate Bush y su inolvidable *Hounds of Love*. Mazy Fly, que se lanzó a finales de febrero, contiene 12 canciones que han alcanzado un nivel desconocido de synth pop o synth minimalista que resulta difícil de caracterizar.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Dz2Fzs9po9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="embedded" width="560" height="315" src="https://www.youtube.com/embed/Dz2Fzs9po9Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Spellling en Mazy Fly tomó parte del art pop contemporáneo solo para ella y redirigió los sonidos superficiales de este género que suenan bien solo cuando estás en un bar con una bebida en la mano. Después de canciones tan espesas como Hard to Please y Haunted Water, encontramos grandes composiciones como *Golden Numbers, Under the Sun, Hard to Please (Reprise)* y *Afterlife*.
 

@@ -15,7 +15,7 @@ El sello 4AD no ha sorprendido mi oído recientemente, pero me ha encantado con 
 
 En Designer, Aldous (también conocida como Hannah) Harding, se acercó estilísticamente a la música característica de Nick Drake. Ella tomó solo un poco de sus letras completamente deprimidas y grabó nueve composiciones que parecen idílicas. No hay falta de amargura en este LP, pero es una buena amargura que puede hacer pensar al oyente, especialmente en canciones como _Heaven Is Empty_ y la profundamente conmovedora _Weight of the Planets_, y _Damn_. Tampoco faltan esquemas románticos, especialmente en _Fixture Picture, Zoo Eyes_ y _Treasure_. Sin embargo, las canciones que unen el concepto de Aldous de una manera visionaria son _Designer_ y _The Barrel_. A pesar de estos sentimientos universales, que parecen estar en línea con los sentimientos de otros oyentes, todavía me pregunto qué diría Nick Drake sobre Aldous Harding, quien está en constante desarrollo y evolución.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qPB6iPXhkdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="embedded" width="560" height="315" src="https://www.youtube-nocookie.com/embed/qPB6iPXhkdI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 El segundo aspecto que derrite el tiempo es el enfoque minimalista pero perfecto de los instrumentos. Las frases de clarinete, piano y percusión que suenan un poco más fuertes son interrumpidas por cascadas de guitarra acústica. Pero el componente que une esta actuación es la voz de Harding, que hace preguntas y da respuestas inesperadas. 
 

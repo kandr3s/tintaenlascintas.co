@@ -22,7 +22,7 @@ Nick Drake tenía tan solo 21 años cuando su álbum debut, **Five Leaves Left**
 > hasta que el tiempo ha volado  
 > lejos de su día de muerte
 
-<iframe id="youtube_iframe" src="https://www.youtube.com/embed/gkjb9sUgqUM?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allowfullscreen="allowfullscreen" width="540" height="304" frameborder="0"></iframe>
+<iframe id="embedded" src="https://www.youtube.com/embed/gkjb9sUgqUM?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allowfullscreen="allowfullscreen" width="540" height="304" frameborder="0"></iframe>
 
 Five Leaves Left era en si mismo un disco maravilloso, con enriquecedores arreglos de cuerda en temas como Way to Blue, donde la voz de Drake, tan esencial en sus canciones personales, es en ocasiones opacada por una resonante e impetuosa sección de cuerdas que también se destaca en ‘Cello Song, y que en The Thoughts of Mary Jane, se une a instrumentos de viento para crear una de las más hermosas canciones del álbum. 
 
@@ -44,7 +44,7 @@ Drake se vio emocionalmente afectado al no obtener los resultados esperados en e
 Como el objetivo era alcanzar popularidad, la producción del álbum se centró en crear canciones con un sonido más optimista y con atractivo radial; esto sería mucho más evidente en temas como Poor Boy, 
 que contaba con voces que evocan el más distintivo estilo del soul y la incorporación del saxofón como complemento, y en la canción que da título al álbum y Sunday, instrumentales de tono menos personal pero igualmente exquisitos con flauta, guitarra, bajo y una sección de cuerdas; y en Northern Sky, que resulta una de las canciones más alegres y optimistas en toda la discografía del artista.
 
-<iframe src="https://www.youtube.com/embed/512dfE03-DI?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allowfullscreen="allowfullscreen" width="540" height="304" frameborder="0"></iframe>
+<iframe class="embedded" src="https://www.youtube.com/embed/512dfE03-DI?feature=oembed&amp;enablejsapi=1&amp;origin=https://safe.txmblr.com&amp;wmode=opaque" allowfullscreen="allowfullscreen" width="540" height="304" frameborder="0"></iframe>
 
 Bryter Layter es un disco que crea lentamente una estética barroca y el atractivo pop es evidente en su instrumentación pero en sus letras se percibe un tono personal y triste. En la canción Hazey Jane II,
  por ejemplo, Drake explica su incapacidad para comunicarse con otras personas, mientras que evidentemente le resulta mucho más fácil expresarse a través de sus canciones.

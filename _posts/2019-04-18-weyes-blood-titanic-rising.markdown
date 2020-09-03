@@ -25,6 +25,6 @@ La instrumentación Ambient, el uso de reverb y la excelente producción aportan
 
 Pero no estamos hablando de una copia de una copia, Natalie Mering crea un producto inspirado en el pasado pero con un distintivo toque moderno que se siente muy suyo, una *"nostalgia estética"* que convierte su álbum en, desde ya, uno de los mejores del año.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RFtRq6t3jOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe class="embedded" width="560" height="315" src="https://www.youtube.com/embed/RFtRq6t3jOo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 El álbum está disponible para streaming en [Spotify](https://open.spotify.com/album/53VKICyqCf91sVkTdFrzKX?si=ECx1tJ4AS8S5KE-a_nZWmw), [Bandcamp](https://weyesblood.bandcamp.com/album/titanic-rising) y [Apple Music](https://itunes.apple.com/us/album/titanic-rising/1450550344).
