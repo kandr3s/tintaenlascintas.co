@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Clásicos: The Marble Index"
-description: "La primera obra maestra de Nico fue lanzada en 1968, para entonces la artista alemana ya había sido modelo, estrella de cine, madre, y co-fundadora del Punk. Esto es The Marble index."
+description: "La primera obra maestra de Nico fue lanzada en 1968, para entonces la artista alemana ya había sido modelo, estrella de cine, madre, y una de las fundadoras del Rock gótico."
 image: /assets/img/posts/Nico/nico.jpg
 featured: true
 permalink: /post/the-marble-index
