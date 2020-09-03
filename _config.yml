@@ -2,8 +2,8 @@ name: Tinta en las Cintas
 tagline: "Un mixtape colectivo."
 description: "Un mixtape colectivo: Blog de música."
 url: https://tintaenlascintas.co
-lang: es_CO
-twitter: tinta_cintas
+lang: es
+twitter: kandr3s
 comments: false
 analytics: true
 analytics-id: 'UA-86791161-2'
@@ -11,25 +11,7 @@ analytics-id: 'UA-86791161-2'
 # Social
 social:
   links:
-    - https://twitter.com/tinta_cintas
-    - https://instagram.com/tintaenlascintas.co
-    - https://tinta-cintas.tumblr.com/
-
-# Authors
-authors:
-  kandr3s:
-    name: Andrés Cárdenas
-    display_name: Andrés
-    bio: "Colombiano, estudiante, editor de Tinta en las Cintas y aficionado a la música."
-    web: http://kandr3s.co
-    twitter: kandr3s
-    github: kandr3s
-  wiktoria:
-    name: Wiktoria Pająk
-    display_name: Wiktoria
-    bio: "Estudiante polaca y aficionada al idioma español, que reseña música en español y polaco."
-    web: http://tranzytrustykalny.tumblr.com
-
+    - https://twitter.com/kandr3s
 
 # File management
 include: [".htaccess"]
