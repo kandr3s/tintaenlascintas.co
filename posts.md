@@ -11,10 +11,6 @@ title: Publicaciones
         <img class="album-art" src="{{ post.image }}" alt="{{ post.title }}">
       </div>
     </div>
-    <!--div class="post-image">
-      <a href="{{ post.url }}">
-      <img src="{{ post.image }}" alt="{{ post.title }}"></a>
-    </div-->
   </article>
   {% endfor %}
 </div>
