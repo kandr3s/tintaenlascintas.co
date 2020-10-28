@@ -3,6 +3,7 @@ layout: base
 title: "Clásicos"
 permalink: "/clasicos"
 ---
+¿Qué define un clásico? Los críticos aún no logran ponerse de acuerdo. Para nosotros los clásicos son esos discos que creemos necesitan estar en la colección de todo el mundo. Aquí hemos mencionado algunos de ellos.
 <div class="grid-container">
   {% for post in site.posts %}
   {% if post.category == "Clásicos" %}
