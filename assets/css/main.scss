@@ -26,10 +26,16 @@ header {
 	text-align: center;
 }
 
-h1, h2, h3, h4 {
+h1, h2, h3 {
 	font-family: $title-font;
 	text-transform: uppercase;
 	text-align: center;
+}
+
+h4 {
+	font-family: $title-font;
+	text-transform: uppercase;
+	margin: 0;
 }
 
 a {
