@@ -5,6 +5,7 @@ description: 'Natalie Mering crea una “nostalgia estética” que convierte su
 permalink: /post/titanic-rising
 author: kandr3s
 image: /assets/img/posts/wb-tr19.jpg
+feature: /assets/img/posts/weyes_blood_titanic.jpg
 category: "Reseñas"
 ---
 

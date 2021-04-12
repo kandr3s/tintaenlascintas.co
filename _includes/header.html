@@ -5,7 +5,7 @@
     <p class="header-tagline">{{ site.tagline }}</p>
     <ul class="menu">
     {% for item in site.data.nav %}
-    <a href="{{ site.url}}{{ item.url }}"><li class="nav-item">{{ item.title }}</li></a>
+    <a href="{{ item.url }}"><li class="nav-item">{{ item.title }}</li></a>
     {% endfor %}
     </ul>
   </div>

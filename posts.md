@@ -8,7 +8,7 @@ title: Publicaciones
     <a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
     <div class="album-art-container">
       <div class="album-art-frame">
-        <img class="album-art" src="{{ post.image }}" alt="{{ post.title }}">
+        <img class="album-art" src="{% if post.feature %}{{ post.feature }}{% else %}{{ post.image }}{% endif %}" alt="{{ post.title }}">
       </div>
     </div>
   </article>

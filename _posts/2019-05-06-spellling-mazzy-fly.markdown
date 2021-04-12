@@ -4,6 +4,7 @@ title: "Spellling - Mazy Fly"
 description:
 permalink: /post/mazy-fly
 image: /assets/img/posts/spellling-mf19.jpg
+feature: /assets/img/posts/spellling_mazy_fly.jpg
 category: "Reseñas"
 ---
 

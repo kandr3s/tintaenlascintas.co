@@ -2,7 +2,7 @@
 layout: post
 title: "Yves Tumor - Heaven to a Tortured Mind"
 description: "Heaven to a Tortured Mind es una mezcla encantadora de beats y melodías de un artista que se aventura en diferentes géneros y en cada uno de ellos entrega con calidad"
-image: /assets/img/posts/yt-htatm20.jpg
+image: /assets/img/posts/yvestumor-htatm.jpg
 permalink: /post/heaven-to-a-tortured-mind
 author: kandr3s
 category: "Reseñas"
