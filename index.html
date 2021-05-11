@@ -1,18 +1,5 @@
 ---
 layout: base
 ---
-<h3>Publicaciones Recientes</h3>
-
-<div class="grid-container">
-  {% for post in site.posts limit:6 %}
-  <article class="post-listing">
-    <a class="post-title" href="{{ post.url }}">{{ post.title }}</a>
-    <div class="album-art-container">
-      <div class="album-art-frame">
-        <img class="album-art" src="{% if post.feature %}{{ post.feature }}{% else %}{{ post.image }}{% endif %}" alt="{{ post.title }}">
-      </div>
-    </div>
-  </article>
-  {% endfor %}
-</div>
-<a href="/posts"><button class="button-alt">VER MÁS POSTS</button></a>
+<h1>Tinta en las Cintas&hellip;</h1>
+  We moved. <a href="https://kandr3s.co/tintaenlascintas">Click here if you are not redirected.</a>
